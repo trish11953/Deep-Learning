@@ -1,7 +1,7 @@
 
 # Welcome to my Deep Learning Repository! This repository is a collection of various deep learning projects and experiments I have worked on during my academic and professional journey. These projects span different domains and applications, showcasing my experience and understanding of various deep learning techniques and frameworks.
 
-Introduction
+## Introduction
 
 Deep learning is a subset of machine learning that focuses on neural networks with multiple layers, allowing models to learn and extract features from large datasets effectively. This repository contains projects that demonstrate my skills in various deep learning techniques, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers, and more. The projects cover a range of applications, including computer vision, natural language processing, and generative modeling.
 
